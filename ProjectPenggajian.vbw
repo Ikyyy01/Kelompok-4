@@ -1,0 +1,7 @@
+FormMenuUtama = 33, 72, 841, 466, , 94, 54, 902, 554, C
+Module1 = 52, 52, 860, 446, 
+FormLogin = 26, 26, 832, 420, , 52, 52, 933, 594, C
+FormMasterAdmin = 104, 104, 912, 498, , 113, 78, 921, 472, C
+FormMasterJabatan = 104, 104, 910, 498, , 33, 45, 521, 491, C
+FormMasterKaryawan = 90, 222, 829, 616, , 42, 33, 630, 427, C
+FormTransGaji = 92, -2, 822, 447, Z, 0, 0, 795, 514, C
